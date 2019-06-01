@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="snr-utest:jar">
+    <output-path>$PROJECT_DIR$/../snr-utest/out/artifacts/snr_utest_jar</output-path>
+    <root id="archive" name="snr-utest.jar">
+      <element id="module-output" name="snr-utest" />
+      <element id="extracted-dir" path="C:/Tools/poi-ooxml-4.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/redist/annotations-java8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Tools/poi-4.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
